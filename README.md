@@ -1,4 +1,4 @@
-# Vue Testing Suite
+# Vue Testing Suite Test
 
 Vue Testing Suite enables a user to create an AWS Lambda function with Vue testing abilities. 
 
